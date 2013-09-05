@@ -1,3 +1,9 @@
+django-recaptcha (0.0.6-hh1) unstable; urgency=low
+
+  * mocked internet conntection in tests
+
+ -- Dmitry Makushin <d.makushin@eastwoodlab.ru>  Wed, 04 Sep 2013 18:08:03 +0400
+
 django-recaptcha (0.0.6-1) unstable; urgency=low
 
   * source package automatically created by stdeb 0.5.1

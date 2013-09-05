@@ -1,7 +1,7 @@
 Source: django-recaptcha
 Maintainer: Dmitry Makushin <d.makushin@eastwoodlab.ru>
 Section: python
-Priority: optional
+Priority: extra
 Build-Depends: python-setuptools (>= 0.6b3), debhelper (>= 7), python-support (>= 0.8.4)
 Standards-Version: 3.7.2
 
