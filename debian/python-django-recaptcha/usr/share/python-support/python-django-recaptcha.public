@@ -1,0 +1,13 @@
+pyversions=2.6,2.7
+
+/usr/share/pyshared/captcha/client.py
+/usr/share/pyshared/captcha/fields.py
+/usr/share/pyshared/captcha/models.py
+/usr/share/pyshared/captcha/templates/captcha/widget.html
+/usr/share/pyshared/captcha/tests.py
+/usr/share/pyshared/captcha/widgets.py
+/usr/share/pyshared/django_recaptcha-0.0.6_hh1.egg-info/PKG-INFO
+/usr/share/pyshared/django_recaptcha-0.0.6_hh1.egg-info/SOURCES.txt
+/usr/share/pyshared/django_recaptcha-0.0.6_hh1.egg-info/dependency_links.txt
+/usr/share/pyshared/django_recaptcha-0.0.6_hh1.egg-info/not-zip-safe
+/usr/share/pyshared/django_recaptcha-0.0.6_hh1.egg-info/top_level.txt

@@ -1,0 +1,14 @@
+f07c222276b0762a83cd01b046b34f0c  usr/share/python-support/python-django-recaptcha.public
+403670a2c13263be55d78be367423ea6  usr/share/doc/python-django-recaptcha/changelog.Debian.gz
+911af584cd1e7841b08fe470254aab58  usr/share/doc/python-django-recaptcha/copyright
+fe8edbabc5c5c9b7b764504cd22b17af  usr/share/pyshared/django_recaptcha-0.0.6_hh1.egg-info/top_level.txt
+0ab04274ce534a0c29675ba897d9de6e  usr/share/pyshared/django_recaptcha-0.0.6_hh1.egg-info/PKG-INFO
+304b7af998ca4baad6f0e1ec8b654d93  usr/share/pyshared/django_recaptcha-0.0.6_hh1.egg-info/SOURCES.txt
+68b329da9893e34099c7d8ad5cb9c940  usr/share/pyshared/django_recaptcha-0.0.6_hh1.egg-info/not-zip-safe
+68b329da9893e34099c7d8ad5cb9c940  usr/share/pyshared/django_recaptcha-0.0.6_hh1.egg-info/dependency_links.txt
+d41d8cd98f00b204e9800998ecf8427e  usr/share/pyshared/captcha/models.py
+7a3a1f0ca25397f19ddd5b4b4d26e466  usr/share/pyshared/captcha/templates/captcha/widget.html
+ed983d2644348e350f2f5d713da5c562  usr/share/pyshared/captcha/tests.py
+eee7991aa94049c4975885e6374154e8  usr/share/pyshared/captcha/widgets.py
+7c7e5bc1a5c8be17e4392f2a075c18f3  usr/share/pyshared/captcha/client.py
+01f05f31458b8b36bec5d24c1ab04bf3  usr/share/pyshared/captcha/fields.py

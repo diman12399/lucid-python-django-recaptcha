@@ -1,0 +1,13 @@
+Package: python-django-recaptcha
+Source: django-recaptcha
+Version: 0.0.6-hh2
+Architecture: all
+Maintainer: Dmitry Makushin <d.makushin@eastwoodlab.ru>
+Installed-Size: 112
+Depends: python (<< 2.8), python (>= 2.6), python-support (>= 0.90.0), python-django (>= 1.4)
+Provides: python2.6-django-recaptcha
+Section: python
+Priority: extra
+Description: Django recaptcha form field/widget app.
+ django-recaptcha uses a modified version of the `Python reCAPTCHA client <http://pypi.python.org/pypi/recaptcha-client>`_ which is included in the package as ``client.py``.
+Python-Version: 2.6
